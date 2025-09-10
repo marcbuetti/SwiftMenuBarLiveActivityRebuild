@@ -16,4 +16,4 @@ It integrates live information directly into the macOS menu bar and works out of
 
 1. Clone the repository or download as ZIP:  
    ```bash
-   git clone https://github.com/your-username/SwiftMenuBarLiveActivityRebuild.git
+   git clone https://github.com/marcbuetti/SwiftMenuBarLiveActivityRebuild.git
